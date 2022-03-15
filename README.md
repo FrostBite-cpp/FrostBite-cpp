@@ -2,16 +2,16 @@
 
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-### Glad to sene you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+#### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-I'm a high school student in Turkey. I love programming. I love programming even more. I also love programming. So I love programming. :)
+* I'm a high school student in Turkey. I love programming. I love programming even more. I also love programming. So I love programming. :) *
 
 - 👀 I’m interested in cloud development and machine learning.
 - 🌱 I’m currently learning C-sharp.
 - 📝 I regularly write blog entries on my WordPress website.
 - 📫 How to reach me: @Altan on Twitter.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrostBite-cpp&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrostBite-cpp)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrostBite-cpp&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> ![GitHub Contributors Image](https://contrib.rocks/image?repo=Your_GitHub_Username/Your_GitHub_Repository_Name) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrostBite-cpp)](https://github.com/anuraghazra/github-readme-stats)
 
 I use:
 
