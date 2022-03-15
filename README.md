@@ -11,7 +11,7 @@
 - 📝 I regularly write blog entries on my WordPress website.
 - 📫 How to reach me: @Altan on Twitter.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrostBite-cpp&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> ![GitHub Contributors Image](https://contrib.rocks/image?repo=Your_GitHub_Username/Your_GitHub_Repository_Name) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrostBite-cpp)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrostBite-cpp&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true?theme=tokyonight" /> ![GitHub Contributors Image](https://contrib.rocks/image?repo=Your_GitHub_Username/Your_GitHub_Repository_Name) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrostBite-cpp)](https://github.com/anuraghazra/github-readme-stats)
 
 I use:
 
